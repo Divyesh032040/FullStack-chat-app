@@ -89,24 +89,27 @@ npm install
 ### 3️⃣ Configure Environment Variables
 Create a `.env` file inside the `backend` directory and add:
 ```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-CLIENT_URL=http://localhost:3000
+PORT=5001
+MONGODB_URI="mongodb+srv://dp032040:divyesh032040@cluster0.k27ej.mongodb.net/chat_db"
+JWT_SECRET="divyesh032040"
+CLOUDINARY_CLOUD_NAME="divyesh032040"
+CLOUDINARY_API_KEY="337844172419829"
+CLOUDINARY_API_SECRET="ldvwrX2eGQzOk9S-s7piVfVAwOA"
+NODE_ENV='production'
 ```
 
 ### 4️⃣ Start the Application
 #### Run Backend Server
 ```bash
 cd backend
-npm start
+npm run dev
 ```
 #### Run Frontend Client
 ```bash
 cd ../frontend
-npm start
+npm run dev
 ```
-The app should now be running at `http://localhost:3000` 🎉
+The app should now be running at `http://localhost:5001` 🎉
 
 ---
 
@@ -121,7 +124,7 @@ The app should now be running at `http://localhost:3000` 🎉
 
 ## 🚀 Deployment
 
-### 🔹 Backend Deployment (Render/Vercel/Heroku)
+### 🔹 Backend Deployment (Render)
 - Deploy the backend using **Render, Vercel, or Heroku**.
 - Use **MongoDB Atlas** for cloud database hosting.
 - Configure environment variables for production.
@@ -160,9 +163,9 @@ This project is licensed under the **MIT License**.
 
 ## 📢 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📑 [Medium](https://medium.com/@yourusername)  
+💼 [LinkedIn](https://www.linkedin.com/in/divyesh-parmar-/)  
+🐦 [Twitter](https://x.com/parmar_div45704)  
+📑 [Medium](https://medium.com/@Divyesh032040)  
 📧 Email: your.email@example.com  
 
 ---
