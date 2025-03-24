@@ -174,16 +174,3 @@ This project is licensed under the **MIT License**.
 
 Happy Coding! 🚀🔥
 ```
-
-This README includes:
-- A **detailed introduction** with a professional tone.
-- **Features list** with bullet points for clarity.
-- A **table-based Tech Stack** for structured presentation.
-- A **clean and well-organized project structure**.
-- A **step-by-step installation guide**.
-- **Usage instructions** for better onboarding.
-- **Deployment guides** for frontend & backend.
-- **Goals & contribution guidelines** to encourage collaboration.
-- **License information** and **contact details** for networking.
-
-Let me know if you need any modifications! 🚀
