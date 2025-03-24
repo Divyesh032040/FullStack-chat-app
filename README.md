@@ -166,7 +166,7 @@ This project is licensed under the **MIT License**.
 💼 [LinkedIn](https://www.linkedin.com/in/divyesh-parmar-/)  
 🐦 [Twitter](https://x.com/parmar_div45704)  
 📑 [Medium](https://medium.com/@Divyesh032040)  
-📧 Email: your.email@example.com  
+📧 Email: divyeshparmar607@gmail.com
 
 ---
 
