@@ -90,12 +90,12 @@ npm install
 Create a `.env` file inside the `backend` directory and add:
 ```env
 PORT=5001
-MONGODB_URI="mongodb+srv://dp032040:divyesh032040@cluster0.k27ej.mongodb.net/chat_db"
-JWT_SECRET="divyesh032040"
-CLOUDINARY_CLOUD_NAME="divyesh032040"
-CLOUDINARY_API_KEY="337844172419829"
-CLOUDINARY_API_SECRET="ldvwrX2eGQzOk9S-s7piVfVAwOA"
-NODE_ENV='production'
+MONGODB_URI=""
+JWT_SECRET=""
+CLOUDINARY_CLOUD_NAME=""
+CLOUDINARY_API_KEY=""
+CLOUDINARY_API_SECRET=""
+NODE_ENV=''
 ```
 
 ### 4️⃣ Start the Application
