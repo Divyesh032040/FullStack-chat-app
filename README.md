@@ -149,7 +149,7 @@ The app should now be running at `http://localhost:5001` 🎉
 
 Contributions are welcome! If you’d like to enhance this project:
 1️⃣ Fork the repository.  
-2️⃣ Create a new branch (`feature-branch`).  
+2️⃣ Create a new branch (`main`).  
 3️⃣ Make changes and commit.  
 4️⃣ Open a Pull Request.  
 
